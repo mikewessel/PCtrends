@@ -1,9 +1,10 @@
-name: "R<sup>3</sup>"
+name: "PC Trends"
 navbar:
-  title: "R<sup>3</sup> Exercises"
+  title: "PC Trends 2021"
   left:
     - text: "Home"
       href: index.html
-    - text: "Collaborate"
-      href: collaborate.html
+    - text: "Trends"
+      href: Trends.html
 output_dir: "."
+
