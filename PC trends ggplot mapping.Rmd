@@ -34,7 +34,6 @@ library(webshot)
 
 
 
-
 ```{r}
 # get working directory
 getwd() 
